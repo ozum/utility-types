@@ -1,4 +1,0 @@
-// type GetComponentProps<T> =
-//   T extends new (props: infer P) => any ? P :
-//   T extends (props: infer P & { children?: React.ReactNode }) => any ? P :
-//   any;
